@@ -1,0 +1,1 @@
+Embedded things will be added up here for understanding the code flow and cocepts
