@@ -7,7 +7,6 @@ Table of Contents
 Breaking Changes in 2.0.0
 Features
 Chromium
-Usage
 Extension Settings
 Options
 FAQ
